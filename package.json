@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/styles.css -o ./dist/output.css --watch",
+    "build": "npx tailwindcss -i ./src/styles.css -o ./dist/output.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  }
+}

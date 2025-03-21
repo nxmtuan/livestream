@@ -10,6 +10,7 @@ module.exports = {
         rateGradient: "linear-gradient(to bottom, #454343CC, #696767CC)",
         inMatchGradient: "linear-gradient(to right, #37B349, #FC9504)",
         scoreGradient: "linear-gradient(to right, #000000CC, #666666CC)",
+        btnGradient: "linear-gradient(to right, #F45515, #FF7037, #F96022)",
       },
     },
     container: {

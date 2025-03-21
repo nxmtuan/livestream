@@ -17,8 +17,8 @@
                     <div
                         class="flex justify-between items-center py-[5px] px-[10px] max-md:text-sm font-semibold leading-3 text-white bg-gradient-to-b from-[#FC5D1D] to-[#f36c36]">
                         <div class="grid grid-cols-4 gap-[10px] items-center">
-                            <a href="#"
-                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-300 active">
+                            <a href="bongda.php"
+                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-300">
                                 <div class="flex">
                                     <svg width="20" height="20" viewBox="0 0 20 20"
                                         class="group-hover:fill-[#FC5D1D] fill-white duration-300"
@@ -35,8 +35,8 @@
                                 <div class="capitalize duration-300">Bóng Đá</div>
                             </a>
 
-                            <a href="bongro.php"
-                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-300">
+                            <a href="#"
+                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-300 active">
                                 <div class="flex">
                                     <svg width="20" height="20" viewBox="0 0 20 20"
                                         class="group-hover:fill-[#FC5D1D] fill-white duration-300"
@@ -186,17 +186,17 @@
                             <div
                                 class="rounded-[10px] px-[1px] pb-[3px] overflow-hidden bg-borderCardGradient shadow-[0px_2px_0px_#CD4109]">
                                 <div class="relative bg-[#343434] rounded-[10px] size-full bg-cover bg-center"
-                                    style="background-image: url('./assets/images/bg-football.png');">
+                                    style="background-image: url('./assets/images/bg-bongro.png');">
                                     <div class="h-fit flex justify-between">
                                         <!-- giải đấu -->
                                         <div
                                             class="flex gap-[5px] items-center rounded-br-[10px] py-[5.5px] px-[10px] max-h-[30px] bg-[#F15E23]">
-                                            <img src="./assets/images/tournament-logo.svg" alt="tournament-logo"
+                                            <img src="./assets/images/tournament-logo1.svg" alt="tournament-logo"
                                                 loading="lazy"
                                                 class="size-[26px] object-cover rounded-full overflow-hidden">
                                             <div
                                                 class="text-sm text-white max-w-[154px] overflow-hidden text-ellipsis whitespace-nowrap">
-                                                Ngoại hạng anh
+                                                NBA
                                             </div>
                                         </div>
 
@@ -225,7 +225,7 @@
                                     <div class="flex items-center justify-center py-[5px] px-[10px] text-white">
                                         <div class="flex items-center gap-[5px]">
                                             <div class="font-bold">Team a</div>
-                                            <img src="./assets/images/team-logo.svg" alt="du doan" loading="lazy"
+                                            <img src="./assets/images/bongro-logo.svg" alt="du doan" loading="lazy"
                                                 class="w-[50px] h-[50px] object-cover rounded-full overflow-hidden border border-[#FB6515]">
                                         </div>
                                         <div class="flex flex-col items-center gap-[5px]">
@@ -295,7 +295,7 @@
                                             </div>
                                         </div>
                                         <div class="flex items-center gap-[5px]">
-                                            <img src="./assets/images/team-logo.svg" alt="du doan" loading="lazy"
+                                            <img src="./assets/images/bongro-logo.svg" alt="du doan" loading="lazy"
                                                 class="w-[50px] h-[50px] object-cover rounded-full overflow-hidden border border-[#FB6515]">
                                             <div class="font-bold">Team b</div>
                                         </div>

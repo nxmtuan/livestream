@@ -2,7 +2,7 @@
 <main>
     <div class="container pt-[60px] pb-5 md:block hidden">
         <a href="/">
-            <img src="#" alt="Banner" loading="lazy" class="w-full h-[150px]">
+            <img src="./assets/images/bannerqc.png" alt="" loading="lazy" class="w-full h-[150px]">
         </a>
     </div>
     <div class="container">
@@ -390,16 +390,16 @@
             <div class="md:grid grid-cols-3 gap-[10px] items-center h-full">
                 <div class="col-span-1 h-full pl-[4px] rounded-[10px] overflow-hidden bg-[#F15E23] max-md:hidden">
                     <div
-                        class="size-full rounded-[10px] overflow-hidden bg-[#343434] py-5 px-[10px] space-y-[10px] text-white font-semibold tracking-[-5%]">
-                        <?php for ($i = 0; $i < 20; $i++) { ?>
-                            <div>- text content</div>
+                        class="flex flex-col size-full rounded-[10px] overflow-hidden bg-[#343434] py-5 px-[10px] space-y-[10px] text-white font-semibold tracking-[-5%]">
+                        <?php for ($i = 1; $i <= 4; $i++) { ?>
+                            <a href="#<?php echo $i; ?>">- text content</a>
                         <?php } ?>
                     </div>
                 </div>
                 <div class="md:col-span-2 h-full md:pr-[4px] rounded-[10px] overflow-hidden md:bg-[#F15E23]">
                     <div
-                        class="size-full rounded-[10px] overflow-hidden bg-[#343434] md:p-5 p-[10px] space-y-[10px] text-white font-semibold tracking-[-5%]">
-                        <div>
+                        class="w-full max-h-[800px] rounded-[10px] overflow-hidden bg-[#343434] md:p-5 p-[10px] space-y-[10px] text-white font-semibold tracking-[-5%] overflow-y-auto scroll-smooth">
+                        <div id="1" class="scroll-mt-[50vh]">
                             <p>OKWINTV: Nền Tảng Phát Sóng Trực Tiếp Bóng Đá và Esport 24/7 miễn phí, không quảng cáo
                                 với chất lượng full HD tốc độ cao</p>
                             <p>Trong thời đại công nghệ số hiện nay, việc xem trực tiếp các trận đấu thể thao như bóng
@@ -412,7 +412,29 @@
                         </div>
                         <img src="./assets/images/gt.png" alt="gt" loading="lazy"
                             class="aspect-[760/406] object-cover w-full">
-                        <div>
+                        <div id="2" class="scroll-mt-[50vh]">
+                            <p>OKWINTV: Nền Tảng Phát Sóng Trực Tiếp Bóng Đá và Esport 24/7 miễn phí, không quảng cáo
+                                với chất lượng full HD tốc độ cao</p>
+                            <p>Trong thời đại công nghệ số hiện nay, việc xem trực tiếp các trận đấu thể thao như bóng
+                                đá, bóng rổ, hoặc các giải đấu esports ngày càng trở nên dễ dàng và thuận tiện hơn bao
+                                giờ hết. Và OKWINTV chính là một trong những nền tảng nổi bật nhất, giúp người hâm mộ
+                                thể thao và game thủ có thể theo dõi tất cả các trận đấu yêu thích một cách mượt mà và
+                                không gián đoạn.</p>
+                            <p>Hãy cùng khám phá tất cả những lý do tại sao OKWINTV lại trở thành lựa chọn số một của
+                                những người yêu thể thao và các môn game đối kháng.</p>
+                        </div>
+                        <div id="3" class="scroll-mt-[50vh]">
+                            <p>OKWINTV: Nền Tảng Phát Sóng Trực Tiếp Bóng Đá và Esport 24/7 miễn phí, không quảng cáo
+                                với chất lượng full HD tốc độ cao</p>
+                            <p>Trong thời đại công nghệ số hiện nay, việc xem trực tiếp các trận đấu thể thao như bóng
+                                đá, bóng rổ, hoặc các giải đấu esports ngày càng trở nên dễ dàng và thuận tiện hơn bao
+                                giờ hết. Và OKWINTV chính là một trong những nền tảng nổi bật nhất, giúp người hâm mộ
+                                thể thao và game thủ có thể theo dõi tất cả các trận đấu yêu thích một cách mượt mà và
+                                không gián đoạn.</p>
+                            <p>Hãy cùng khám phá tất cả những lý do tại sao OKWINTV lại trở thành lựa chọn số một của
+                                những người yêu thể thao và các môn game đối kháng.</p>
+                        </div>
+                        <div id="4" class="scroll-mt-[50vh]">
                             <p>OKWINTV: Nền Tảng Phát Sóng Trực Tiếp Bóng Đá và Esport 24/7 miễn phí, không quảng cáo
                                 với chất lượng full HD tốc độ cao</p>
                             <p>Trong thời đại công nghệ số hiện nay, việc xem trực tiếp các trận đấu thể thao như bóng

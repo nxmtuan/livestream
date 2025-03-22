@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth scroll-pt-20">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Livestream</title>
+    <link rel="stylesheet" href="./assets/fonts/font.css">
     <link href="../dist/output.css" rel="stylesheet">
     <script src="./assets/lib/jquery.min.js"></script>
 </head>

@@ -52,41 +52,41 @@
     <div class="fixed bottom-0 p-[10px] w-full md:hidden z-[9]">
         <div
             class="grid grid-cols-5 w-full gap-[10px] border-[2px] border-[#F15E23] rounded-[15px] bg-[#160418]/8 backdrop-blur-xl">
-            <a href="/" class="relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
+            <a href="/" class="group relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
                 <img src="./assets/images/tranhot.svg" alt="tran hot" loading="lazy" class="w-[25px] h-[25px]">
                 <div
-                    class="text-xs [&:not(.active,:hover)]:font-normal font-bold tracking-[-5%] capitalize duration-150">
+                    class="text-xs [&:not(.active)]:font-normal font-bold group-hover:font-bold tracking-[-5%] capitalize duration-150">
                     Trận Hot
                 </div>
             </a>
-            <a href="/" class="relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
+            <a href="/" class="group relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
                 <img src="./assets/images/bxh.svg" alt="tran hot" loading="lazy" class="w-[25px] h-[25px]">
                 <div
-                    class="text-xs [&:not(.active,:hover)]:font-normal font-bold tracking-[-5%] capitalize duration-150">
+                    class="text-xs [&:not(.active)]:font-normal font-bold group-hover:font-bold tracking-[-5%] capitalize duration-150">
                     BXH
                 </div>
             </a>
-            <a href="/" class="relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
+            <a href="/" class="group relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
                 <div
                     class="absolute top-[-15px] left-1/2 -translate-x-1/2 flex justify-center items-center size-[50px] bg-[#F15E23] rounded-full overflow-hidden">
                     <img src="./assets/images/tructiep.svg" alt="tran hot" loading="lazy" class="w-[25px] h-[25px]">
                 </div>
                 <div
-                    class="absolute bottom-[11px] left-1/2 -translate-x-1/2 w-full text-center text-xs [&:not(.active,:hover)]:font-normal font-bold tracking-[-5%] capitalize duration-150 active">
+                    class="absolute bottom-[11px] left-1/2 -translate-x-1/2 w-full text-center text-xs [&:not(.active)]:font-normal font-bold group-hover:font-bold tracking-[-5%] capitalize duration-150 active">
                     Trực Tiếp
                 </div>
             </a>
-            <a href="/" class="relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
+            <a href="/" class="group relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
                 <img src="./assets/images/nhandinh.svg" alt="tran hot" loading="lazy" class="w-[25px] h-[25px]">
                 <div
-                    class="text-xs [&:not(.active,:hover)]:font-normal font-bold tracking-[-5%] capitalize duration-150">
+                    class="text-xs [&:not(.active)]:font-normal font-bold group-hover:font-bold tracking-[-5%] capitalize duration-150">
                     Nhận định
                 </div>
             </a>
-            <a href="/" class="relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
+            <a href="/" class="group relative flex flex-col gap-[3px] items-center size-full pt-[10px] pb-[11px]">
                 <img src="./assets/images/ketqua.svg" alt="tran hot" loading="lazy" class="w-[25px] h-[25px]">
                 <div
-                    class="text-xs [&:not(.active,:hover)]:font-normal font-bold tracking-[-5%] capitalize duration-150">
+                    class="text-xs [&:not(.active)]:font-normal font-bold group-hover:font-bold tracking-[-5%] capitalize duration-150">
                     Kết quả
                 </div>
             </a>

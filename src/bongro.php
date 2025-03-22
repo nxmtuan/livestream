@@ -18,46 +18,46 @@
                         class="flex justify-between items-center py-[5px] px-[10px] max-md:text-sm font-semibold leading-3 text-white bg-gradient-to-b from-[#FC5D1D] to-[#f36c36]">
                         <div class="grid grid-cols-4 gap-[10px] items-center">
                             <a href="bongda.php"
-                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-300">
+                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-100">
                                 <div class="flex">
                                     <svg width="20" height="20" viewBox="0 0 20 20"
-                                        class="group-hover:fill-[#FC5D1D] fill-white duration-300"
+                                        class="group-hover:fill-[#FC5D1D] fill-white duration-100"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M6.23727 0.731803C4.99799 1.2341 3.87279 1.98126 2.929 2.92857C1.99897 3.85622 1.26142 4.95852 0.758749 6.17212C0.256075 7.38572 -0.00181928 8.68669 -0.000113665 10.0003C-0.000113665 11.2989 0.246397 12.5651 0.732233 13.7629C1.23447 15.0022 1.98163 16.1274 2.929 17.0712C3.87259 18.0187 4.99784 18.7659 6.23727 19.2679C7.4324 19.7534 8.71047 20.002 10.0004 20C11.3139 20.0015 12.6147 19.7436 13.8282 19.241C15.0417 18.7384 16.1439 18.001 17.0716 17.0712C18.0192 16.1277 18.7665 15.0024 19.2683 13.7629C19.7535 12.5679 20.002 11.29 20.0001 10.0003C20.0001 8.70139 19.7539 7.43513 19.2683 6.23684C18.7654 4.99655 18.0258 3.88283 17.0716 2.92857C16.1173 1.97431 15.0047 1.23477 13.7633 0.731803C12.5681 0.246809 11.2902 -0.00171325 10.0004 8.88913e-06C8.70155 8.88913e-06 7.43556 0.246243 6.23727 0.731803ZM2.49926 14.21C2.01757 13.9077 1.57374 13.5595 1.18076 13.1494C0.582746 11.4626 0.477211 9.64038 0.876492 7.89581C1.06353 7.52631 1.27765 7.17114 1.51709 6.83322C1.59143 6.72848 1.66024 6.61932 1.73983 6.51762L3.99657 7.85298V7.90963C3.99153 9.12105 4.11315 10.3297 4.35942 11.5158C4.36025 11.5213 4.36108 11.5244 4.36219 11.5294L2.61202 14.2736C2.57346 14.2542 2.53583 14.233 2.49926 14.21ZM9.20922 18.8492C9.59636 19.047 9.99795 19.2152 10.4105 19.3522C8.63701 19.431 6.87752 19.0049 5.33662 18.1232L9.11968 18.7973C9.1487 18.8158 9.17827 18.8335 9.20922 18.8492ZM9.1954 18.1664L4.73112 17.3707C4.20881 16.7365 3.739 16.0655 3.33524 15.3483C3.23244 15.1659 3.11775 14.9888 3.0307 14.7984L4.77921 12.0569C4.8179 12.0666 4.86101 12.0768 4.90993 12.0898C6.00375 12.3825 7.11692 12.5906 8.23782 12.7536C8.30332 12.7627 8.35804 12.7708 8.40474 12.7757L10.5006 16.3996C10.1375 16.9115 9.76833 17.4191 9.39327 17.9223C9.33082 18.0061 9.26449 18.0865 9.1954 18.1664ZM16.6228 16.6226C16.2731 16.9728 15.8961 17.2945 15.4952 17.5846C15.43 17.0629 15.3168 16.5483 15.1573 16.0472L17.3935 11.8754C18.0095 11.5949 18.6037 11.2768 19.1553 10.8824C19.2274 10.8313 19.2874 10.7741 19.3338 10.7116C19.1719 12.8675 18.2682 14.9775 16.6228 16.6226ZM16.5236 11.2121C16.6068 11.3707 16.6888 11.531 16.7712 11.6935L14.6112 15.7228C14.5987 15.7256 14.5869 15.7283 14.5744 15.73C13.4098 15.9492 12.2279 16.0629 11.0428 16.0696L8.88726 12.3424C9.22264 11.7193 9.5552 11.0946 9.88491 10.4684C10.1088 10.0439 10.3287 9.61669 10.5484 9.18972L15.0097 8.73152C15.556 9.53295 16.0737 10.3515 16.5236 11.2121ZM15.6185 6.43278C15.4068 6.99185 15.1802 7.54512 14.955 8.09949L10.609 8.54581C10.5573 8.47707 10.503 8.41024 10.4465 8.34545C9.93327 7.76427 9.41676 7.18668 8.90108 6.60744C8.90578 6.60163 8.91047 6.59721 8.91517 6.59196C8.70708 6.38414 8.49843 6.17632 8.29033 5.96794L9.50022 2.32528C9.58295 2.30234 9.66729 2.28571 9.75254 2.27553C10.4103 2.20866 11.0688 2.13293 11.7282 2.0948C12.132 2.07214 12.5379 2.05915 12.9486 2.08816L15.9421 5.46221C15.839 5.78776 15.7384 6.11414 15.6185 6.43278ZM16.6228 3.37737C17.4254 4.17859 18.0752 5.11951 18.5401 6.15393C17.9807 5.77125 17.3819 5.44949 16.754 5.19414C16.6551 5.15414 16.555 5.11709 16.4539 5.08305L13.5074 1.76206C13.5279 1.61863 13.5386 1.47493 13.5431 1.33012C14.6961 1.8 15.7432 2.49612 16.6228 3.37737ZM7.00112 1.15574C7.01273 1.1643 7.01826 1.17149 7.02489 1.17342C7.69837 1.40611 8.31106 1.7488 8.88864 2.15532L7.75834 5.55921C7.75259 5.56073 7.74695 5.56267 7.74148 5.56502C7.51017 5.66063 7.27444 5.74631 7.04672 5.84994C6.10849 6.27636 5.19375 6.74865 4.33206 7.31491L2.10158 5.9953C2.10402 5.9259 2.11717 5.85729 2.14055 5.7919C2.29034 5.39285 2.43763 4.99157 2.60704 4.60053C2.73798 4.30046 2.88532 4.00782 3.04838 3.72392C4.12563 2.52759 5.49467 1.63103 7.02185 1.12174C7.01494 1.13252 7.00776 1.14385 7.00112 1.15574Z"
                                             fill="currentColor" />
                                     </svg>
                                     <div
-                                        class="bg-white group-hover:bg-[#FC5D1D] group-active:bg-[#FC5D1D] text-[#FC5D1D] group-[.active]:bg-[#FC5D1D] group-hover:text-white group-[.active]:text-white h-3 px-1 rounded-full text-[10px] leading-3 text-center duration-300">
+                                        class="bg-white group-hover:bg-[#FC5D1D] group-active:bg-[#FC5D1D] text-[#FC5D1D] group-[.active]:bg-[#FC5D1D] group-hover:text-white group-[.active]:text-white h-3 px-1 rounded-full text-[10px] leading-3 text-center duration-100">
                                         66
                                     </div>
                                 </div>
-                                <div class="capitalize duration-300">Bóng Đá</div>
+                                <div class="capitalize duration-100">Bóng Đá</div>
                             </a>
 
-                            <a href="#"
-                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-300 active">
+                            <a href=""
+                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-100 active">
                                 <div class="flex">
                                     <svg width="20" height="20" viewBox="0 0 20 20"
-                                        class="group-hover:fill-[#FC5D1D] fill-white duration-300"
+                                        class="group-hover:fill-[#FC5D1D] fill-white duration-100"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M10 0C4.48607 0 0 4.48607 0 10C0 10.6396 0.0629561 11.265 0.178076 11.8717L0.140559 11.9167C0.158547 11.9319 0.17602 11.9447 0.194008 11.9596C1.10751 16.5384 5.15649 20 10 20C15.5139 20 20 15.5139 20 10C20 4.48607 15.5139 0 10 0ZM18.5171 6.48808C18.5037 9.73224 15.6103 10.424 14.3941 10.5707C15.4078 7.07498 15.119 3.71929 14.8975 2.20089C16.5178 3.22185 17.7822 4.7195 18.5171 6.48808ZM14.0197 1.71086C14.1875 2.57812 14.8212 6.48448 13.5893 10.5293C11.2452 9.90801 10.9127 8.201 10.469 5.87727C10.1686 4.30311 9.82886 2.53932 8.74884 0.873163C10.55 0.622695 12.3849 0.914324 14.0197 1.71086ZM7.90523 1.02914C9.04949 2.6457 9.39382 4.43699 9.69704 6.02477C10.1375 8.33205 10.5568 10.5162 13.3395 11.2787C13.1305 11.8564 12.8836 12.4197 12.6002 12.9648C6.82881 10.1691 3.28759 5.67787 2.51773 4.63331C3.79947 2.85076 5.70125 1.54358 7.90523 1.02914ZM2.06033 5.33225C3.1383 6.74196 6.67001 10.9485 12.2158 13.6504C11.9953 14.0177 11.7561 14.3734 11.4991 14.7161C9.98098 13.9621 8.55509 13.8455 7.1734 13.7329C5.26159 13.5769 3.28605 13.4102 0.915305 11.5305C0.551691 9.394 0.957406 7.1978 2.06033 5.33225ZM1.19411 12.7133C3.40708 14.2114 5.28549 14.3676 7.10967 14.5167C8.42353 14.6238 9.67211 14.7274 10.995 15.3472C9.92908 16.5945 8.53762 17.7202 6.73168 18.6129C4.09395 17.6084 2.03207 15.4276 1.19411 12.7133ZM7.79088 18.9446C9.43083 18.0288 10.7151 16.9216 11.7181 15.7136C12.1392 15.9464 12.9646 16.4899 13.1797 17.2723C13.3074 17.7361 13.1915 18.2375 12.8425 18.7635C11.9247 19.0623 10.9655 19.2144 10.0003 19.2142C9.25562 19.2139 8.51376 19.1234 7.79088 18.9446ZM13.9105 18.3405C14.0408 17.9075 14.0523 17.4794 13.9364 17.0601C13.662 16.0674 12.7549 15.4068 12.2073 15.0874C12.4672 14.7327 12.7093 14.3653 12.9327 13.9865C14.3683 14.633 15.8651 15.1341 17.4006 15.4821C16.4903 16.7077 15.2914 17.6895 13.9105 18.3405ZM17.8736 14.7813C16.236 14.4365 14.7148 13.9195 13.3151 13.2971C13.6334 12.6795 13.9074 12.0401 14.1351 11.3837C14.8253 11.3336 16.7587 11.0757 18.0663 9.74252C18.5013 9.29915 18.8313 8.76386 19.032 8.17607C19.1532 8.77648 19.2142 9.38748 19.2142 10C19.2161 11.6868 18.7522 13.3414 17.8736 14.7813Z"
                                             fill="currentColor" />
                                     </svg>
                                     <div
-                                        class="bg-white group-hover:bg-[#FC5D1D] group-active:bg-[#FC5D1D] text-[#FC5D1D] group-[.active]:bg-[#FC5D1D] group-hover:text-white group-[.active]:text-white h-3 px-1 rounded-full text-[10px] leading-3 text-center duration-300">
+                                        class="bg-white group-hover:bg-[#FC5D1D] group-active:bg-[#FC5D1D] text-[#FC5D1D] group-[.active]:bg-[#FC5D1D] group-hover:text-white group-[.active]:text-white h-3 px-1 rounded-full text-[10px] leading-3 text-center duration-100">
                                         1
                                     </div>
                                 </div>
-                                <div class="capitalize duration-300">Bóng Rổ</div>
+                                <div class="capitalize duration-100">Bóng Rổ</div>
                             </a>
 
                             <a href="esport.php"
-                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-300">
+                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-100">
                                 <div class="flex">
                                     <svg width="26" height="20" viewBox="0 0 20 20"
-                                        class="group-hover:fill-[#FC5D1D] fill-white duration-300"
+                                        class="group-hover:fill-[#FC5D1D] fill-white duration-100"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M14.732 10.5264C15.0227 10.5264 15.2583 10.2907 15.2583 10.0001C15.2583 9.70939 15.0227 9.47375 14.732 9.47375C14.4413 9.47375 14.2057 9.70939 14.2057 10.0001C14.2057 10.2907 14.4413 10.5264 14.732 10.5264Z"
@@ -97,29 +97,29 @@
                                             fill="currentColor" />
                                     </svg>
                                     <div
-                                        class="bg-white group-hover:bg-[#FC5D1D] group-active:bg-[#FC5D1D] text-[#FC5D1D] group-[.active]:bg-[#FC5D1D] group-hover:text-white group-[.active]:text-white h-3 px-1 rounded-full text-[10px] leading-3 text-center duration-300">
+                                        class="bg-white group-hover:bg-[#FC5D1D] group-active:bg-[#FC5D1D] text-[#FC5D1D] group-[.active]:bg-[#FC5D1D] group-hover:text-white group-[.active]:text-white h-3 px-1 rounded-full text-[10px] leading-3 text-center duration-100">
                                         66
                                     </div>
                                 </div>
-                                <div class="capitalize duration-300">Esport</div>
+                                <div class="capitalize duration-100">Esport</div>
                             </a>
 
                             <a href="other.php"
-                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-300">
+                                class="group flex flex-col gap-[3px] pt-[5px] items-center md:px-[10px] px-[3px] md:pb-[13px] pb-[10px] rounded-t-[5px] [&:not(.active,:hover)]:bg-transparent bg-white [&:not(.active,:hover)]:text-white text-[#FC5D1D] duration-100">
                                 <div class="flex">
                                     <svg width="21" height="20" viewBox="0 0 20 20"
-                                        class="group-hover:fill-[#FC5D1D] fill-white duration-300"
+                                        class="group-hover:fill-[#FC5D1D] fill-white duration-100"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M10.2537 0C8.27585 0 6.34245 0.58649 4.69796 1.6853C3.05347 2.78412 1.77175 4.3459 1.01487 6.17316C0.257995 8.00043 0.0599616 10.0111 0.445814 11.9509C0.831666 13.8907 1.78407 15.6725 3.1826 17.0711C4.58112 18.4696 6.36295 19.422 8.30276 19.8078C10.2426 20.1937 12.2532 19.9957 14.0805 19.2388C15.9078 18.4819 17.4695 17.2002 18.5684 15.5557C19.6672 13.9112 20.2537 11.9778 20.2537 10C20.2537 7.34783 19.2001 4.80429 17.3247 2.92893C15.4494 1.05357 12.9058 0 10.2537 0ZM10.2537 18.5714C8.5584 18.5714 6.9012 18.0687 5.49163 17.1269C4.08207 16.185 2.98345 14.8464 2.3347 13.2801C1.68595 11.7139 1.5162 9.99049 1.84694 8.3278C2.17767 6.6651 2.99401 5.13782 4.19275 3.93908C5.39149 2.74035 6.91877 1.924 8.58146 1.59327C10.2442 1.26254 11.9676 1.43228 13.5338 2.08103C15.1 2.72978 16.4387 3.8284 17.3805 5.23797C18.3224 6.64753 18.8251 8.30473 18.8251 10C18.8251 12.2733 17.922 14.4535 16.3146 16.0609C14.7071 17.6684 12.5269 18.5714 10.2537 18.5714ZM7.39652 10C7.39652 10.2825 7.31274 10.5587 7.15576 10.7937C6.99879 11.0286 6.77568 11.2117 6.51464 11.3198C6.2536 11.428 5.96637 11.4562 5.68925 11.4011C5.41214 11.346 5.15759 11.2099 4.9578 11.0101C4.75801 10.8104 4.62195 10.5558 4.56683 10.2787C4.51171 10.0016 4.54 9.71434 4.64812 9.45331C4.75625 9.19227 4.93935 8.96916 5.17428 8.81218C5.40921 8.65521 5.68541 8.57143 5.96795 8.57143C6.34683 8.57143 6.71019 8.72194 6.9781 8.98985C7.24601 9.25775 7.39652 9.62112 7.39652 10ZM11.6822 10C11.6822 10.2825 11.5985 10.5587 11.4415 10.7937C11.2845 11.0286 11.0614 11.2117 10.8004 11.3198C10.5393 11.428 10.2521 11.4562 9.97496 11.4011C9.69785 11.346 9.4433 11.2099 9.24351 11.0101C9.04372 10.8104 8.90766 10.5558 8.85254 10.2787C8.79742 10.0016 8.82571 9.71434 8.93384 9.45331C9.04196 9.19227 9.22507 8.96916 9.45999 8.81218C9.69492 8.65521 9.97112 8.57143 10.2537 8.57143C10.6325 8.57143 10.9959 8.72194 11.2638 8.98985C11.5317 9.25775 11.6822 9.62112 11.6822 10ZM15.9679 10C15.9679 10.2825 15.8842 10.5587 15.7272 10.7937C15.5702 11.0286 15.3471 11.2117 15.0861 11.3198C14.825 11.428 14.5378 11.4562 14.2607 11.4011C13.9836 11.346 13.729 11.2099 13.5292 11.0101C13.3294 10.8104 13.1934 10.5558 13.1383 10.2787C13.0831 10.0016 13.1114 9.71434 13.2195 9.45331C13.3277 9.19227 13.5108 8.96916 13.7457 8.81218C13.9806 8.65521 14.2568 8.57143 14.5394 8.57143C14.9183 8.57143 15.2816 8.72194 15.5495 8.98985C15.8174 9.25775 15.9679 9.62112 15.9679 10Z"
                                             fill="currentColor" />
                                     </svg>
                                     <div
-                                        class="bg-white group-hover:bg-[#FC5D1D] group-active:bg-[#FC5D1D] text-[#FC5D1D] group-[.active]:bg-[#FC5D1D] group-hover:text-white group-[.active]:text-white h-3 px-1 rounded-full text-[10px] leading-3 text-center duration-300">
+                                        class="bg-white group-hover:bg-[#FC5D1D] group-active:bg-[#FC5D1D] text-[#FC5D1D] group-[.active]:bg-[#FC5D1D] group-hover:text-white group-[.active]:text-white h-3 px-1 rounded-full text-[10px] leading-3 text-center duration-100">
                                         66
                                     </div>
                                 </div>
-                                <div class="capitalize duration-300">Khác</div>
+                                <div class="capitalize duration-100">Khác</div>
                             </a>
                         </div>
 
@@ -357,8 +357,9 @@
 
                     <div class="pt-5 flex justify-center">
                         <button
-                            class="bg-btnGradient md:w-fit w-full py-[6.5px] md:px-[159px] px-0 text-xl text-white font-bold tracking-[-5%] rounded-full overflow-hidden capitalize">
-                            Xem Thêm Trận Khác</button>
+                            class="bg-btnGradient md:w-fit w-full py-[6.5px] md:px-[159px] px-0 text-xl text-white border-2 border-[#FC5D1D] font-bold tracking-[-5%] rounded-full overflow-hidden capitalize hover:[background:white] hover:text-[#FC5D1D] duration-150">
+                            Xem Thêm Trận Khác
+                        </button>
                     </div>
                 </div>
             </div>
@@ -398,7 +399,7 @@
                 </div>
                 <div class="md:col-span-2 h-full md:pr-[4px] rounded-[10px] overflow-hidden md:bg-[#F15E23]">
                     <div
-                        class="w-full max-h-[800px] rounded-[10px] overflow-hidden bg-[#343434] md:p-5 p-[10px] space-y-[10px] text-white font-semibold tracking-[-5%] overflow-y-auto scroll-smooth">
+                        class="w-full max-h-[800px] rounded-[10px] overflow-hidden bg-[#343434] md:p-5 p-[10px] space-y-[10px] text-white font-semibold tracking-[-5%] overflow-y-auto scroll-smooth scroll_bar">
                         <div id="1" class="scroll-mt-[50vh]">
                             <p>OKWINTV: Nền Tảng Phát Sóng Trực Tiếp Bóng Đá và Esport 24/7 miễn phí, không quảng cáo
                                 với chất lượng full HD tốc độ cao</p>

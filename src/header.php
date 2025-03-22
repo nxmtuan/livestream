@@ -20,13 +20,27 @@
                 </a>
             </div>
             <div class="flex items-center xl:text-lg text-sm font-bold text-[#FC6B31] max-md:hidden">
-                <a href="/" class="px-5 py-[18px]">Xoilac TV</a>
-                <a href="/" class="px-5 py-[18px]">Lịch thi đấu</a>
-                <a href="/" class="px-5 py-[18px]">Bảng xếp hạng</a>
-                <a href="/" class="px-5 py-[18px]">Kết quả</a>
-                <a href="/" class="px-5 py-[18px]">Dự đoán</a>
-                <a href="/" class="px-5 py-[18px]">Nhận định</a>
-                <a href="/" class="px-5 py-[18px]">Tin tức</a>
+                <a href="/"
+                    class="relative px-5 py-[18px] after:absolute after:left-0 after:bottom-[10%] after:w-full after:h-[2px] after:bg-[#FC6B31] [&:not(.active,:hover)]:after:bg-transparent after:duration-150">Xoilac
+                    TV</a>
+                <a href="/"
+                    class="relative px-5 py-[18px] after:absolute after:left-0 after:bottom-[10%] after:w-full after:h-[2px] after:bg-[#FC6B31] [&:not(.active,:hover)]:after:bg-transparent after:duration-150">Lịch
+                    thi đấu</a>
+                <a href="/"
+                    class="relative px-5 py-[18px] after:absolute after:left-0 after:bottom-[10%] after:w-full after:h-[2px] after:bg-[#FC6B31] [&:not(.active,:hover)]:after:bg-transparent after:duration-150">Bảng
+                    xếp hạng</a>
+                <a href="/"
+                    class="relative px-5 py-[18px] after:absolute after:left-0 after:bottom-[10%] after:w-full after:h-[2px] after:bg-[#FC6B31] [&:not(.active,:hover)]:after:bg-transparent after:duration-150">Kết
+                    quả</a>
+                <a href="/"
+                    class="relative px-5 py-[18px] after:absolute after:left-0 after:bottom-[10%] after:w-full after:h-[2px] after:bg-[#FC6B31] [&:not(.active,:hover)]:after:bg-transparent after:duration-150">Dự
+                    đoán</a>
+                <a href="/"
+                    class="relative px-5 py-[18px] after:absolute after:left-0 after:bottom-[10%] after:w-full after:h-[2px] after:bg-[#FC6B31] [&:not(.active,:hover)]:after:bg-transparent after:duration-150">Nhận
+                    định</a>
+                <a href="/"
+                    class="relative px-5 py-[18px] after:absolute after:left-0 after:bottom-[10%] after:w-full after:h-[2px] after:bg-[#FC6B31] [&:not(.active,:hover)]:after:bg-transparent after:duration-150">Tin
+                    tức</a>
             </div>
 
             <!-- Mobile menu -->

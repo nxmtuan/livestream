@@ -291,8 +291,43 @@
                             </a>
 
                             <!-- Phần chat -->
-                            <div class="flex-1 overflow-y-auto py-5 px-[10px] max-md:min-h-[300px]">
-                                Nội dung chat hiển thị ở đây...
+                            <div
+                                class="flex-1  py-5 px-[10px] max-md:min-h-[300px] flex flex-col gap-[15px] justify-end">
+                                <!-- Thông báo -->
+                                <div class="space-y-[6px]">
+                                    <div class="flex gap-2 items-center text-[#F68C1F] font-medium text-xs">
+                                        <img src="./assets/images/loa.svg" alt="loa" loading="lazy"
+                                            class="w-[19px] h-[18px]">
+                                        <div class="font-semibold">Thông báo hệ thống</div>
+                                    </div>
+                                    <div class="text-[#0084FF] text-xs">Tất cả nhóm, quảng cáo đều là lừa đảo, người vi
+                                        phạm quy định sẽ bị khoá tài khoản.</div>
+                                </div>
+
+                                <!-- Comments -->
+                                <div class="space-y-[10px] overflow-y-auto max-h-[420px] scroll_bar">
+                                    <?php for ($i = 0; $i < 6; $i++) { ?>
+                                        <p class="text-white text-xs leading-5">
+                                            <span
+                                                class="px-1 rounded-full overflow-hidden bg-[#2468cf] text-center font-semibold">Lv31</span>
+                                            <span class="font-semibold text-[#F68C1F]">Cá trích:</span>
+                                            mươi Vậy mà giờ đã lớn trưởng thành hơn Mặc váy Chẳng điều gì dừng bước em
+                                            tôi Vì người mãi kiêu sa đẹp tuyệt vời
+                                        </p>
+                                        <p class="text-white text-xs leading-5">
+                                            <span
+                                                class="px-1 rounded-full overflow-hidden bg-[#e46dbf] text-center font-semibold">Lv1</span>
+                                            <span class="font-semibold text-[#F68C1F]">Cá trích:</span>
+                                            Ngon, cũng để xuất khẩu
+                                        </p>
+                                        <p class="text-white text-xs leading-5">
+                                            <span
+                                                class="px-1 rounded-full overflow-hidden bg-[#0acdbb] text-center font-semibold">Lv11</span>
+                                            <span class="font-semibold text-[#F68C1F]">Cá mú gai:</span>
+                                            Ngày hôm ấy là cô bé tuổi 200000
+                                        </p>
+                                    <?php } ?>
+                                </div>
                             </div>
 
                             <!-- Phần bottom -->

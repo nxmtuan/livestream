@@ -125,3 +125,20 @@
   font-weight: 100;
   font-style: italic;
 }
+
+/* Với toàn bộ trang */
+.scroll_bar::-webkit-scrollbar {
+  width: 5px; /* Độ rộng thanh cuộn dọc */
+  height: 5px; /* Độ cao thanh cuộn ngang */
+}
+
+/* Phần kéo (nút di chuyển) */
+.scroll_bar::-webkit-scrollbar-thumb {
+  background: #fc6b31;
+  border-radius: 5px;
+}
+
+/* Khi hover vào nút kéo */
+.scroll_bar::-webkit-scrollbar-thumb:hover {
+  background: #fc6b31;
+}

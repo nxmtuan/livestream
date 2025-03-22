@@ -11,14 +11,14 @@
 </head>
 
 <body class="bg-[#171616] text-base font-normal">
-    <main class="h-screen flex justify-center items-center">
-        <div class="relative flex w-[840px] h-[600px] rounded-[10px] overflow-hidden">
+    <main class="h-screen container flex items-center">
+        <div class="relative flex md:w-[840px] w-full h-[600px] rounded-[10px] overflow-hidden">
             <img src="./assets/images/closebtn.svg" alt="" loading="lazy"
                 class="absolute top-[10px] right-[10px] size-5">
-            <div class="w-1/2 h-full">
+            <div class="w-1/2 h-full max-md:hidden">
                 <img src="./assets/images/login.png" alt="" loading="lazy" class="size-full object-cover">
             </div>
-            <div class="w-1/2 h-full flex flex-col justify-center items-center bg-angularGradient">
+            <div class="md:w-1/2 w-full h-full flex flex-col justify-center items-center bg-angularGradient">
                 <div class="w-[300px] flex flex-col gap-[10px] justify-center items-center">
                     <img src="./assets/images/logo-login.png" alt="" loading="lazy"
                         class="aspect-[215/38] object-cover">
